@@ -30,7 +30,7 @@ module.exports = {
   ** Global CSS
   */
   css: [
-    { src: '~/assets/scss/app.scss', lang: 'scss' },
+    { src: '~/assets/scss/app.scss', lang: 'scss' }
   ],
   plugins: [
     '~/plugins/webFontLoader.client.js'

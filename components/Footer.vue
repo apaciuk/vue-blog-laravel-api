@@ -1,5 +1,5 @@
 <template>
-  <footer class="text-center text-white" style="background: linear-gradient(90deg, hsla(207, 70%, 18%, 1) 10%, hsla(252, 73%, 16%, 1) 100%, hsla(58, 100%, 52%, 1) 100%)">
+  <footer class="text-center text-white" style="background: #560952">
     <!-- Grid container -->
     <div class="container p-4 pb-0">
       <!-- Section: CTA -->
