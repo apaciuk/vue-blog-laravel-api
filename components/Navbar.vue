@@ -9,11 +9,11 @@
 
     <b-collapse id="nav-collapse" is-nav>
       <b-navbar-nav>
-        <b-nav-item href="#">Home</b-nav-item>
-        <b-nav-item href="#">About</b-nav-item>
-        <b-nav-item href="#">Services</b-nav-item>
-        <b-nav-item href="#">Portfolio</b-nav-item>
-        <b-nav-item href="#">Blog</b-nav-item>
+        <b-nav-item><nuxt-link to="/">Home</nuxt-link></b-nav-item>
+        <b-nav-item><nuxt-link to="/users/">Users</nuxt-link></b-nav-item>
+        <b-nav-item><nuxt-link to="/">Home</nuxt-link></b-nav-item>
+        <b-nav-item><nuxt-link to="/">Home</nuxt-link></b-nav-item>
+        <b-nav-item><nuxt-link to="/post/list/">Blog</nuxt-link></b-nav-item>
    
       </b-navbar-nav>
 
